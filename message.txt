@@ -1,0 +1,6 @@
+Hi there! I'm Akshay Bhaltilak, a passionate full-stack developer specializing in web development and proficient in HTML, CSS, JavaScript, and the MERN stack (MongoDB, Express.js, React, Node.js). With a strong background in building responsive and visually appealing websites, I also have expertise in creating tailored web solutions for clients in diverse industries. Additionally, I enjoy self-study and farming, which keeps me grounded and constantly learning.
+
+Feel free to check out my portfolio to see my work: www.akshaybhaltilak.live.
+
+Looking forward to collaborating and bringing your ideas to life!
+
